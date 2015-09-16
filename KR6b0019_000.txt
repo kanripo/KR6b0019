@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 太子慕魄經
+#+DATE: 2015-08-30 19:33:57.894626
+#+PROPERTY: JUAN 0
