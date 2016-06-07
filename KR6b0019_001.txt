@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:57.701186
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:52
 #+TITLE: 太子慕魄經
 #+PROPERTY: CBETA_ID T03n0167
 #+PROPERTY: ID KR6b0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 167
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0019_T_000-0408b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0019_T_001-0408b> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.167[No.152(38)]¶
-
- 佛說太子慕魄經¶
+No. 167 [No. 152(38)]¶
+佛說太子慕魄經¶
 ¶
 後漢安息三藏安世高譯¶
 
@@ -176,8 +175,7 @@ No.167[No.152(38)]¶
 失，非所憶知，而尚受罪，勤苦乃爾。今我治¶
 國不奉正法，既無微善，反是逐非，憍貴自恣，¶
 純行危殆，罪當何貲耶？』便放太子聽行學¶
-道。太子於是棄國捐王，不慕人物，一心專¶
-精，念道修德，功勳累積，遂至成佛。佛已得¶
+道。太子於是棄國捐王，不慕人物，一心專精，念道修德，功勳累積，遂至成佛。佛已得¶
 道，復度十方諸天人民，不可稱計，無央數劫，¶
 不以為勞，菩薩所更勤苦如是。」
 
