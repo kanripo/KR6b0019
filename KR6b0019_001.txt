@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:57.701186
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:52
 #+TITLE: 太子慕魄經
 #+PROPERTY: CBETA_ID T03n0167
 #+PROPERTY: ID KR6b0019
